@@ -1,5 +1,153 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAML10D14A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 16K Flash, 4K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10D14A-YUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 16K Flash, 4K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10D15A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 32K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+
+$ENDCMP
+#
+$CMP ATSAML10D15A-YUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 32K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+
+$ENDCMP
+#
+$CMP ATSAML10D16A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 64K Flash, 16K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10D16A-YUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 64K Flash, 16K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10E14A-AUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 16K Flash, 4K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10E14A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 16K Flash, 4K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10E15A-AUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 32K Flash, 8K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10E15A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 32K Flash, 8K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+
+$ENDCMP
+#
+$CMP ATSAML10E16A-AUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 64K Flash, 16K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML10E16A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU, 32Mhz, 64K Flash, 16K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+
+$ENDCMP
+#
+$CMP ATSAML11D14A-MUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 16K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11D14A-YUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 16K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11D15A-MUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 32K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11D15A-YUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 32K Flash, 8K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11D16A-MUT
+D SAM L10 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 64K Flash, 16K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller Trustzone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11D16A-YUT
+D SAM L10 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 64K Flash, 16K SRAM, SSOP24
+K 32-bit ARM Cortex-M23 MCU Microcontroller Trustzone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E14A-AUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 16K Flash, 8K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E14A-MUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 16K Flash, 4K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E15A-AUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 32K Flash, 8K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E15A-MUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 32K Flash, 8K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E16A-AUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 64K Flash, 16K SRAM, TQFP32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP ATSAML11E16A-MUT
+D SAM L11 Microchip SMART ARM-based Flash MCU with TrustZone, 32Mhz, 64K Flash, 16K SRAM, VQFN32
+K 32-bit ARM Cortex-M23 MCU Microcontroller TrustZone
+F https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
 $CMP ATSAML21E15B-AUT
 D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash, 4K SRAM, TQFP32
 K 32-bit ARM Cortex-M0+ MCU Microcontroller
